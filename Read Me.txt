@@ -1,0 +1,7 @@
+The Final Main file in the Stock Neural Net is set up ready to be run to make a prediction for the next days stock. 
+
+Before running the correct data file must be input into line 10. 
+
+The data file should be saved as a .CSV file with all dates and titles removed - leaving only 4 columns: Open, High, Low, Close. 
+
+Once the file hs been correctly named and set up the program may be run. A prediction should be printed in the command window.
